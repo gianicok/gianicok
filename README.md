@@ -1,1 +1,1 @@
-- 👋
+- Hi 👋 Checkout my most recent project 'Skin-Lesion ML', a ML app made in ReactJS and Tensorflow that detects cancerous skin lesions 
